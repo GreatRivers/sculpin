@@ -31,7 +31,7 @@
         "sculpin/sculpin-theme-composer-plugin": "^1.0",
         "symfony/config": "^v5.4",
         "symfony/console": "^v6.4",
-        "symfony/dependency-injection": "^v5.4",
+        "symfony/dependency-injection": "^v6.0",
         "symfony/event-dispatcher": "^v5.4",
         "symfony/filesystem": "^v5.4",
         "symfony/finder": "^v5.4",
